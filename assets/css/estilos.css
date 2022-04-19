@@ -10,7 +10,9 @@ body {
   background-size: cover;
   background-position: left;
 }
-
+.container h1{
+  color: white;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
